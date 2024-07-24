@@ -3,6 +3,11 @@
 This repository contains amazon clone that were developed to help developers learn and improve their skills in web development. Each project has its own folder and contains all the necessary files, including HTML, CSS, JavaScript.
 
 
+## Project Overview
+
+**Title:** Github Profile Search <br>
+**Author:** Khush
+
 # Snapshot : 
 
 ![Screenshot 2024-07-24 212019](https://github.com/user-attachments/assets/67da9b1d-5fba-41eb-8bf9-e0d97af35463)
